@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science** at Integral University, Lucknow (2021-2025)
+- 🎓 **Bachelors in Computer Science** at Dr Virendra Swarup Institute of Computer studies, Kanpur (2024-2027)
 - 💼 **AI/ML Engineer** | **Full-Stack Developer** | **Data Scientist**
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **AI Applications**
 - 🌱 Specialized in **Computer Vision**, **NLP**, and **Predictive Analytics**
